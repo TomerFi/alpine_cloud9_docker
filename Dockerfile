@@ -4,7 +4,7 @@ LABEL maintainer="tomer.figenblat@gmail.com"
 
 ARG html_page_name="ide"
 
-RUN apk add --update --no-cache build-base git python2 tmux nodejs npm curl bash \
+RUN apk add --update --no-cache build-base git python2 tmux nodejs npm curl bash zip\
  && rm -rf /var/cache/apk/*
 
 RUN git clone https://github.com/c9/core.git /root/.c9 \
