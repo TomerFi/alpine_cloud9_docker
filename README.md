@@ -1,4 +1,16 @@
-# Alpine Cloud9 IDE Docker
+# Alpine Cloud9 IDE Docker</br>![Maintenance](https://img.shields.io/maintenance/no/2019.svg)
+
+**NOT MAINTAINED!**
+
+I'm no longer maintaining this repository!</br>
+
+This solution was replaced by [tomerfi/c9sdk_docker](https://github.com/TomerFi/c9sdk_docker).
+
+You can still use the files :point_up:, if you want.</br>
+These :point_down: are the instructions.
+
+__________________________________________
+
 Alpine based image running [Cloud9-SDK IDE](https://cloud9-sdk.readme.io/). </br>
 
 ## Base image
