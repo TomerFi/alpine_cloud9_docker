@@ -2,9 +2,9 @@
 
 **NOT MAINTAINED!**
 
-I'm no longer maintaining this repository!</br>
+I'm no longer maintaining this repository!
 
-This solution was replaced by [tomerfi/c9sdk_docker](https://github.com/TomerFi/c9sdk_docker).
+This project has has been deprecated for [tomerfi/c9sdk_docker](https://github.com/TomerFi/c9sdk_docker).
 
 You can still use the files :point_up:, if you want.</br>
 These :point_down: are the instructions.
